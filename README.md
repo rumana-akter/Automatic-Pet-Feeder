@@ -1,0 +1,1 @@
+Automatic Pet Helper is an Aurdino based system which will take care of the pet in absence of the owner. It will be able to feed the pet on set time, manage excreta of it along with maintaing a suitable temperature of the room. All these functions will be carried out automatically. 
